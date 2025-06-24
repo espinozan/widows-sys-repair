@@ -927,6 +927,7 @@ function Test-SystemRequirements {
 Write-Host @"
 
 🚀 ===================================================================
+                     WINDOWS-SYS-REPAIR
    SISTEMA AVANZADO DE DIAGNÓSTICO Y REPARACIÓN WINDOWS v2.0
    Framework de Ingeniería Forense y Recuperación Automatizada
 ===================================================================
