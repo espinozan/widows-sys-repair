@@ -1,8 +1,6 @@
 # widows-sys-repair
 Sistema Avanzado de Diagnóstico y Reparación para Windows
 
-# Repair-WindowsSystem
-
 Un sistema integral de diagnóstico, reparación y monitoreo de Windows, diseñado para técnicos avanzados y administradores de sistemas.
 
 ---
